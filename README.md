@@ -1,6 +1,6 @@
-# Tic-Tac-Toe Game (C# WinForms)
+# XO Game (C# WinForms)
 
-A classic Tic-Tac-Toe game developed using C# and Windows Forms.
+A classic XO game developed using C# and Windows Forms.
 
 ## Features
 - **Dynamic Logic:** Checks for 8 winning combinations.
